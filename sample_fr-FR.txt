@@ -17,6 +17,10 @@ Espérons que ce commit fonctionne.
 
 On est jeudi. 
 
-Updating this content. 
+Mise à jour de ce contenu. 
 
-Will it get added to the same job. 
+Sera-t-il ajouté au même travail. 
+
+Ça devrait être un nouveau travail. 
+
+Ajout d'une nouvelle langue
