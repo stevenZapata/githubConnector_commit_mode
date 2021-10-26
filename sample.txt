@@ -39,3 +39,5 @@ Today is Monday. Hope this works.
 Today is thursday.
 
 Today is Tuesday.
+
+Everyday is a great day. 
