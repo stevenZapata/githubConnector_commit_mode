@@ -39,3 +39,5 @@ Nous sommes aujourd'hui lundi. J'espère que ça va marcher.
 On est jeudi.
 
 Nous sommes mardi.
+
+Chaque jour est un grand jour. 

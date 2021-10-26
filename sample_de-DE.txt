@@ -39,3 +39,5 @@ Heute ist Montag. Ich hoffe, das funktioniert.
 Heute ist Donnerstag.
 
 Heute ist Dienstag.
+
+Jeder Tag ist ein großer Tag. 
