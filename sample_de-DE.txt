@@ -37,3 +37,5 @@ Ich liebe Medellin
 Heute ist Montag. Ich hoffe, das funktioniert. 
 
 Heute ist Donnerstag.
+
+Heute ist Dienstag.
