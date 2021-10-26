@@ -43,3 +43,5 @@ Nous sommes mardi.
 Chaque jour est un grand jour. 
 
 Je teste ceci pour les relations publiques.
+
+Une mise à jour rapide est en cours dans ce dossier.
