@@ -44,14 +44,17 @@ Todos los días es un gran día.
 
 Probando esto para PR.
 
+
 Esto resultará en un compromiso. 
 
 Esta es mi primera actualización con la nueva configuración.
 
 otro compromiso!
 
+
 forzando un compromiso
 
 esto debería crear un nuevo trabajo
 
 finalmente trabajando con un trabajo por compromiso. 
+

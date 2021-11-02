@@ -44,6 +44,8 @@ Jeder Tag ist ein großer Tag.
 
 Testen Sie dies für PR.
 
+
+
 Dies führt zu einem Commit. 
 
 Dies ist mein erstes Update mit der neuen Konfiguration.
@@ -55,3 +57,4 @@ Erzwingen eines Commitments
 Dies sollte eine neue Stelle schaffen
 
 endlich mit einem Auftrag pro Commit zu arbeiten. 
+
