@@ -47,3 +47,5 @@ Testing this for PR.
 quick update is being made to this file.
 
 This will result in a commit. 
+
+This is my first update with the new configuration.
