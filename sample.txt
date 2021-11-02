@@ -1,1 +1,3 @@
 Easy text file to translate.
+
+New string being added to the job per committ branch
