@@ -40,11 +40,7 @@ Heute ist Donnerstag.
 
 Heute ist Dienstag.
 
-Jeder Tag ist ein großer Tag. 
-
 Testen Sie dies für PR.
-
-
 
 Dies führt zu einem Commit. 
 
@@ -58,3 +54,6 @@ Dies sollte eine neue Stelle schaffen
 
 endlich mit einem Auftrag pro Commit zu arbeiten. 
 
+Neuer Commit für die Übersetzung
+
+another commit but deleting a string. 
