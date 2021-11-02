@@ -40,12 +40,13 @@ Sot është e enjte.
 
 Sot eshte e marte.
 
-Çdo ditë është një ditë e madhe. 
-
 Testimi i kësaj për PR.
 
+Kjo do të rezultojë në një angazhim. 
 
-përditësimi i shpejtë po bëhet në këtë skedar.
+Ky është përditësimi im i parë me konfigurimin e ri.
+
+një tjetër committtt!
 
 duke detyruar një committtt
 
@@ -53,3 +54,6 @@ kjo duhet të krijojë një punë të re
 
 më në fund duke punuar me një punë për çdo angazhim. 
 
+Angazhim i ri për përkthim
+
+another commit but deleting a string. 

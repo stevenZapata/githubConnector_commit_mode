@@ -40,8 +40,6 @@ On est jeudi.
 
 Nous sommes mardi.
 
-Chaque jour est un grand jour. 
-
 Je teste ceci pour les relations publiques.
 
 Il en résultera un commit. 
@@ -56,3 +54,6 @@ cela devrait créer un nouveau poste
 
 enfin travailler avec un travail par committ. 
 
+Nouveau commit pour la traduction
+
+another commit but deleting a string. 
