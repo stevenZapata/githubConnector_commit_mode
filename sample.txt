@@ -59,3 +59,5 @@ New commit for translation
 another commit but deleting a string. 
 
 New PR for commit. 
+
+Adding this new string. 
