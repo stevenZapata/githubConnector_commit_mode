@@ -56,4 +56,8 @@ endlich mit einem Auftrag pro Commit zu arbeiten.
 
 Neuer Commit für die Übersetzung
 
-another commit but deleting a string. 
+eine weitere Übergabe, bei der jedoch eine Zeichenfolge gelöscht wird. 
+
+New PR for commit. 
+
+Hinzufügen dieser neuen Zeichenfolge. 
