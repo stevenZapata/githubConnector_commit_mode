@@ -56,4 +56,8 @@ më në fund duke punuar me një punë për çdo angazhim.
 
 Angazhim i ri për përkthim
 
-another commit but deleting a string. 
+një tjetër commit por duke fshirë një varg. 
+
+New PR for commit. 
+
+Shtimi i këtij vargu të ri. 
