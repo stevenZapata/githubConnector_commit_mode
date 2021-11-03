@@ -56,4 +56,8 @@ enfin travailler avec un travail par committ.
 
 Nouveau commit pour la traduction
 
-another commit but deleting a string. 
+un autre commit mais en supprimant une chaîne. 
+
+New PR for commit. 
+
+J'ajoute cette nouvelle chaîne. 
