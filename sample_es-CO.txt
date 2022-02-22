@@ -56,4 +56,8 @@ finalmente trabajando con un trabajo por compromiso.
 
 Nuevo compromiso de traducción
 
-another commit but deleting a string. 
+otra confirmación pero eliminando una cadena. 
+
+Nuevo PR para compromiso. 
+
+Añadiendo esta nueva cadena. 
