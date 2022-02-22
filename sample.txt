@@ -40,8 +40,6 @@ Today is thursday.
 
 Today is Tuesday.
 
-Everyday is a great day. 
-
 Testing this for PR.
 
 This will result in a commit. 
@@ -55,3 +53,9 @@ forcing a committtt
 this should create a new job
 
 finally working with one job per committ. 
+
+New commit for translation
+
+another commit but deleting a string. 
+
+New PR for commit. 

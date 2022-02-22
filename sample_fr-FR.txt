@@ -40,14 +40,24 @@ On est jeudi.
 
 Nous sommes mardi.
 
-Chaque jour est un grand jour. 
-
 Je teste ceci pour les relations publiques.
-
-Une mise à jour rapide est en cours dans ce dossier.
 
 Il en résultera un commit. 
 
 C'est ma première mise à jour avec la nouvelle configuration.
 
 un autre committtt !
+
+forcer un engagement
+
+cela devrait créer un nouveau poste
+
+enfin travailler avec un travail par committ. 
+
+Nouveau commit pour la traduction
+
+un autre commit mais en supprimant une chaîne. 
+
+Nouveau PR pour commit. 
+
+J'ajoute cette nouvelle chaîne. 

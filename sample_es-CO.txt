@@ -40,14 +40,24 @@ Hoy es Jueves.
 
 Hoy es martes.
 
-Todos los días es un gran día. 
-
 Probando esto para PR.
-
-se está realizando una actualización rápida a este archivo.
 
 Esto resultará en un compromiso. 
 
 Esta es mi primera actualización con la nueva configuración.
 
 otro compromiso!
+
+forzando un compromiso
+
+esto debería crear un nuevo trabajo
+
+finalmente trabajando con un trabajo por compromiso. 
+
+Nuevo compromiso de traducción
+
+otra confirmación pero eliminando una cadena. 
+
+Nuevo PR para compromiso. 
+
+Añadiendo esta nueva cadena. 

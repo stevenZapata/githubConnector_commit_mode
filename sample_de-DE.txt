@@ -40,14 +40,24 @@ Heute ist Donnerstag.
 
 Heute ist Dienstag.
 
-Jeder Tag ist ein großer Tag. 
-
 Testen Sie dies für PR.
-
-Diese Datei wird jetzt schnell aktualisiert.
 
 Dies führt zu einem Commit. 
 
 Dies ist mein erstes Update mit der neuen Konfiguration.
 
 eine weitere Verpflichtung!
+
+Erzwingen eines Commitments
+
+Dies sollte eine neue Stelle schaffen
+
+endlich mit einem Auftrag pro Commit zu arbeiten. 
+
+Neuer Commit für die Übersetzung
+
+eine weitere Übergabe, bei der jedoch eine Zeichenfolge gelöscht wird. 
+
+Neue PR für Commit. 
+
+Hinzufügen dieser neuen Zeichenfolge. 
