@@ -1,10 +1,4 @@
-{"smartling" : {
-    "translate_paths": [{
-    "path": "*/message",
-    "key": "{*}"
-    }],
-  "string_format": "icu"
-  },
+{
     "jql-editor.common.validation.unknown-error": {
         "message": "Unable to parse the query.",
         "description": "Message shown when the query could not be parsed due to an unknown error."
