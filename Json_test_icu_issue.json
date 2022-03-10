@@ -1,0 +1,18 @@
+{
+  "smartling": {
+    "string_format_paths": "icu: *",
+    "translate_paths": [
+      {
+        "instruction": "*/description",
+        "key": "{*}/message",
+        "path": "*/message"
+      }
+    ],
+    "variants_enabled": true
+  },
+  "e3qxfK": {
+    "description": "Quantity of items",
+    "message": "Qty:{packQuantity, plural, one{prepack} other{prepacks}}, {itemQuantity, plural, one{item} other{items}}",
+    "ICU_message": "Qty:{packQuantity, plural, one{prepack} other{prepacks}}, {itemQuantity, plural, one{item} other{items}}"
+   }
+}
