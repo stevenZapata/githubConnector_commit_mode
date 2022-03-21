@@ -58,6 +58,8 @@ Nuevo compromiso de traducción
 
 otra confirmación pero eliminando una cadena. 
 
-New PR for commit. 
+Nuevo PR para compromiso. 
 
 Añadiendo esta nueva cadena. 
+
+¡Ya casi es primavera!
