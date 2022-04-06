@@ -58,6 +58,8 @@ Nouveau commit pour la traduction
 
 un autre commit mais en supprimant une chaîne. 
 
-New PR for commit. 
+Nouveau PR pour commit. 
 
 J'ajoute cette nouvelle chaîne. 
+
+C'est presque le printemps !

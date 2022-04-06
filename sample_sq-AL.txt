@@ -58,6 +58,8 @@ Angazhim i ri për përkthim
 
 një tjetër commit por duke fshirë një varg. 
 
-New PR for commit. 
+PR e re për angazhim. 
 
 Shtimi i këtij vargu të ri. 
+
+Është pothuajse Pranvera!
