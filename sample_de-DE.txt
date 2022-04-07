@@ -58,8 +58,6 @@ Neuer Commit für die Übersetzung
 
 eine weitere Übergabe, bei der jedoch eine Zeichenfolge gelöscht wird. 
 
-Neue PR für Commit. 
-
 Hinzufügen dieser neuen Zeichenfolge. 
 
 Es ist fast Frühling!
