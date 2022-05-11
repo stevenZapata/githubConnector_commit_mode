@@ -35,6 +35,7 @@ Unë e dua Medellin
 
 Kjo duhet të ngarkohet në Smartling.
 
+
 Sot është e hënë. Shpresoj se kjo funksionon. 
 
 Sot është e enjte.
@@ -66,3 +67,5 @@ Shtimi i këtij vargu të ri.
 Unë jam në Kolumbi sot!
 
 Pak ditë larg verës!
+
+Pothuajse e premte!

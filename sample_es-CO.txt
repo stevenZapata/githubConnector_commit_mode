@@ -35,6 +35,7 @@ Me encanta medellin
 
 Hay que subirlo a Smartling.
 
+
 Hoy es Lunes. Espero que esto funcione. 
 
 Hoy es Jueves.
@@ -66,3 +67,5 @@ Añadiendo esta nueva cadena.
 ¡Hoy estoy en Colombia!
 
 ¡A pocos días del verano!
+
+¡Casi el viernes!
