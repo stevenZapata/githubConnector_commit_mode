@@ -35,6 +35,7 @@ J'aime Medellin
 
 Cela doit être téléchargé sur Smartling.
 
+
 Nous sommes aujourd'hui lundi. J'espère que ça va marcher. 
 
 On est jeudi.
@@ -66,3 +67,5 @@ C'est presque le printemps !
 Je suis en Colombie aujourd'hui !
 
 A quelques jours de l’été !
+
+Presque vendredi!
