@@ -33,6 +33,8 @@ nouveau nouveau commettre
 
 J'aime Medellin
 
+This needs to be uploaded to Smartling.
+
 
 Nous sommes aujourd'hui lundi. J'espère que ça va marcher. 
 
@@ -58,10 +60,10 @@ Nouveau commit pour la traduction
 
 un autre commit mais en supprimant une chaîne. 
 
-Nouveau PR pour commit. 
-
 J'ajoute cette nouvelle chaîne. 
 
 C'est presque le printemps !
 
 Je suis en Colombie aujourd'hui !
+
+A quelques jours de l’été !

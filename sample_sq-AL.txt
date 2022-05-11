@@ -33,6 +33,8 @@ angazhim i ri i ri
 
 Unë e dua Medellin
 
+This needs to be uploaded to Smartling.
+
 
 Sot është e hënë. Shpresoj se kjo funksionon. 
 
@@ -58,10 +60,10 @@ Angazhim i ri për përkthim
 
 një tjetër commit por duke fshirë një varg. 
 
-PR e re për angazhim. 
-
 Shtimi i këtij vargu të ri. 
 
 Është pothuajse Pranvera!
 
 Unë jam në Kolumbi sot!
+
+Pak ditë larg verës!
