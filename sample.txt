@@ -33,6 +33,8 @@ new new commit
 
 I love Medellin
 
+This needs to be uploaded to Smartling.
+
 
 Today is Monday. Hope this works. 
 
