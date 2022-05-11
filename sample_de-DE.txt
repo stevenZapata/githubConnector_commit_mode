@@ -33,6 +33,8 @@ neue neue Verpflichtung
 
 Ich liebe Medellin
 
+This needs to be uploaded to Smartling.
+
 
 Heute ist Montag. Ich hoffe, das funktioniert. 
 
@@ -58,10 +60,10 @@ Neuer Commit für die Übersetzung
 
 eine weitere Übergabe, bei der jedoch eine Zeichenfolge gelöscht wird. 
 
-Neue PR für Commit. 
-
 Hinzufügen dieser neuen Zeichenfolge. 
 
 Es ist fast Frühling!
 
 Ich bin heute in Kolumbien!
+
+Wenige Tage weg vom Sommer!
