@@ -58,8 +58,6 @@ Angazhim i ri për përkthim
 
 një tjetër commit por duke fshirë një varg. 
 
-PR e re për angazhim. 
-
 Shtimi i këtij vargu të ri. 
 
 Është pothuajse Pranvera!
