@@ -33,6 +33,8 @@ nuevo nuevo compromiso
 
 Me encanta medellin
 
+Hay que subirlo a Smartling.
+
 
 Hoy es Lunes. Espero que esto funcione. 
 
@@ -58,10 +60,10 @@ Nuevo compromiso de traducción
 
 otra confirmación pero eliminando una cadena. 
 
-Nuevo PR para compromiso. 
-
 Añadiendo esta nueva cadena. 
 
 ¡Ya casi es primavera!
 
 ¡Hoy estoy en Colombia!
+
+¡A pocos días del verano!
