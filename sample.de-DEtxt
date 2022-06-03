@@ -52,12 +52,14 @@ Erzwingen eines Commitments
 
 Dies sollte eine neue Stelle schaffen
 
-finally working with one job per committ. 
+endlich mit einem Auftrag pro Commit zu arbeiten. 
 
-New commit for translation
+Neuer Commit für die Übersetzung
 
-another commit but deleting a string. 
+eine weitere Übergabe, bei der jedoch eine Zeichenfolge gelöscht wird. 
 
-New PR for commit. 
+Neue PR für Commit. 
 
-It is almost spring!
+Es ist fast Frühling!
+
+Ich habe eine Sprache gelöscht. 
