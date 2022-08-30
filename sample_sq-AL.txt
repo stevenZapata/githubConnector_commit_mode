@@ -73,3 +73,6 @@ Pothuajse e premte!
 Përkushtohu lehtë
 
 Vera ka mbaruar!
+
+
+Ky është një commit i ri për mënyrën e kryerjes

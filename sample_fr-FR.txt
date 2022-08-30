@@ -73,3 +73,6 @@ Presque vendredi!
 Engagez-vous facilement
 
 L’été est terminé!
+
+
+Il s’agit d’une nouvelle validation pour le mode de validation

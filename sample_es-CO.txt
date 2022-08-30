@@ -73,3 +73,6 @@ Añadiendo esta nueva cadena.
 Compromiso fácil
 
 Se acabó el verano.
+
+
+Esta es una nueva confirmación para el modo de confirmación
